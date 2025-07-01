@@ -18,7 +18,7 @@ Build and evaluate classification models to recommend Megaline's legacy plan use
 
 - Best performance overall
 
-  # Random Forest (n=4):
+# Random Forest (n=4):
 
 - Validation: 79.2%
 -  Test: 80.1%
